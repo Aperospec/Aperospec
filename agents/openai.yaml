@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aperospec 时序因果分析"
+  short_description: "用时序因果、驱动力、未来投射和认知触发分析复杂问题"
+  default_prompt: "使用 $aperospec 从时序因果、驱动力与认知触发角度分析这个主题。"
