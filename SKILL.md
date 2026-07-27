@@ -1,6 +1,6 @@
 ---
 name: aperospec
-description: Use the user's personal Aperospec thinking framework, the Temporal Causality, Drive-Force & Cognitive Trigger System, to analyze any phenomenon, project, product, space, social issue, cultural question, future concept, or design direction through time-sequence causality, backward root-cause tracing, present validation, focus extraction, future projection, drive-force analysis, cognitive trigger logic, abstract-structure translation, and immersive cognition. This is the user's personal thinking-framework skill, not a slide aesthetic, deck layout, product roadmap, or execution-planning skill.
+description: Use the user's personal Aperospec thinking framework, the Temporal Causality, Drive-Force & Cognitive Trigger System, as the default upstream lens for complex, ambiguous, strategic, conceptual, behavioral, cultural, future-facing, or design-direction judgments where causal analysis may change understanding or decisions. Trace backward to root causes, validate the present, extract the real focus, project forward, identify drive forces and cognitive triggers, and translate abstract structures into perceptible states. Do not use it for deterministic execution, routine file, GitHub, or tool operations, simple coding changes, format conversion, or straightforward factual lookup unless the user explicitly invokes $aperospec.
 ---
 
 # Aperospec
@@ -25,6 +25,26 @@ Do not treat this skill as:
 - technology feature packaging
 
 Those are downstream outputs. Aperospec is the upstream thinking system.
+
+## Invocation Boundary
+
+Use Aperospec as the default upstream lens when a task requires judgment about:
+- strategy or direction
+- ambiguous or complex systems
+- human behavior, culture, or social change
+- future possibilities and second-order effects
+- concepts, narratives, products, spaces, or experiences whose deeper cause matters
+
+Do not force the full framework onto:
+- deterministic execution
+- routine file, GitHub, or tool operations
+- simple coding changes with a clear specification
+- format conversion or mechanical transformation
+- straightforward factual lookup
+
+Always invoke it when the user explicitly asks for `$aperospec`.
+
+Scale the depth to the decision. The framework may guide reasoning silently or compactly; expose its full analytical structure only when that structure helps the user understand or choose.
 
 ## Core Belief
 
