@@ -2,11 +2,7 @@
 
 Aperospec is a two-stage cognitive operating system for maintaining contact with reality and preserving agency under uncertainty.
 
-Its canonical purpose is:
-
 > **Aperospec 不以建立一套关于世界的准确解释为目的。它把一切解释都视为可被现实修正的临时模型，用于帮助主体在真实世界中保住主体性、选择权与行动能力，并通过判断、行动和反馈持续生存与进化。**
-
-Explanation is a provisional tool. Reality, choice, action, and feedback remain authoritative.
 
 ## Two Positions
 
@@ -16,23 +12,21 @@ Explanation is a provisional tool. Reality, choice, action, and feedback remain 
 
 ## Stage 1 — High-Position Observation
 
-Stage 1 is the default. It reconstructs the situation without selecting whose interests should prevail.
-
-It produces:
+Stage 1 reconstructs the situation and produces:
 
 1. the active frame and its limits
-2. the contradictions the current model cannot absorb
+2. material contradictions
 3. the temporal formation of the present
-4. the actors' public positions, justifying accounts, interests, constraints, strategic functions, and repeated behavior
+4. actors' public positions, justifying accounts, interests, constraints, strategic functions, and repeated behavior
 5. the operating force field
-6. a baseline future judgment: the most probable direction if current forces and endogenous adaptation continue without a decisive intervention or structural discontinuity
-7. a focus set: the issues that the analysis shows have been pushed into the foreground
+6. a baseline future judgment: the most probable direction produced by the current structure and its endogenous adaptations
+7. a focus set: the issues pushed into the foreground by the analysis
 
 Each focus is a conclusion grounded in the formation process, operating forces, current evidence, and baseline future judgment.
 
-Stage 1 can describe factual properties of each focus, such as urgency, scope, reversibility, evidence strength, and time sensitivity. The user decides which focus becomes central, secondary, deferred, or ignored.
+The Agent may describe factual attributes of each focus. The user decides which focus becomes central, secondary, deferred, or ignored.
 
-## Transition — The User Selects a Focus
+## User Transition
 
 Selecting a focus opens Stage 2.
 
@@ -44,7 +38,7 @@ Stage 2 then clarifies the underlying interest drivers:
 
 > Why does this matter to me, and what am I trying to gain, protect, avoid, or preserve?
 
-The Agent may propose a non-exhaustive set of candidate interests for the user to confirm, reject, supplement, and rank. The candidate space remains open and may include money, power, safety, time, autonomy, control, dignity, identity, family, relationships, reputation, psychological cost, mobility, values, exit capacity, and future option value.
+The Agent may propose a non-exhaustive set of candidate interests for the user to confirm, reject, supplement, and rank. The interest space remains open and may include money, power, safety, time, autonomy, control, dignity, identity, family, relationships, reputation, psychological cost, mobility, values, exit capacity, future option value, and interests introduced by the user.
 
 ## Stage 2 — Grounded Strategic Play
 
@@ -70,39 +64,30 @@ time horizon
 acceptable and unacceptable loss
 ```
 
-It then applies appropriate game-theoretic and decision methods to the actual situation.
+It evaluates strategic reachability and applies suitable established game-theoretic and decision methods to the actual situation.
 
-Stage 2 evaluates:
-
-- strategic reachability: whether the subject can currently move the selected focus toward the desired direction
-- other actors' interests, resources, information, dependencies, and likely reactions
-- one-shot and repeated interaction
-- cooperation, conflict, bargaining, signaling, delay, diversification, coalition, rule change, parallel paths, refusal, and exit
-- materially different strategies and their reaction chains
-- first action, downside boundary, feedback, contingencies, and review point
-
-`有解` and `无解` are subject-relative reachability judgments. They describe whether the subject can currently move a chosen focus toward a desired state under the stated conditions. They are not permanent properties of reality as a whole.
+`有解` and `无解` are subject-relative reachability judgments. They describe whether the subject can currently move a chosen focus toward a desired state under the stated conditions.
 
 ## Future Judgment
 
-Future judgment has two distinct strategic uses.
+Future judgment has two strategic uses.
 
-### Internal direction
+### Internal Direction
 
-The subject evaluates how the baseline trajectory affects its interests and decides what direction of play is desirable.
+The subject evaluates how the baseline trajectory affects its interests and defines the desired direction of play.
 
-### External position
+### External Position
 
-The subject may present a future judgment to other actors as a signal, warning, argument, expectation, or commitment intended to affect their current choices.
+The subject may present a future judgment to other actors as a position, signal, warning, argument, commitment, or expectation intended to affect their current choices.
 
-The belief about what is most likely and the strategic function of presenting that belief are kept distinct.
+The belief about what is most likely and the strategic function of presenting that belief remain distinct.
 
 ## Core Flow
 
 ```text
 STAGE 1 — HIGH-POSITION OBSERVATION
 reality encounter
--> frame surfaced
+-> active frame surfaced
 -> contradiction preserved
 -> temporal formation reconstructed
 -> positions and operating force field mapped
@@ -117,7 +102,7 @@ focus selected
 
 STAGE 2 — GROUNDED STRATEGIC PLAY
 strategic reachability assessed
--> appropriate game and decision methods applied
+-> suitable game and decision methods applied
 -> reaction chains projected
 -> strategy selected
 -> action taken
@@ -130,7 +115,7 @@ strategic reachability assessed
 
 - `SKILL.md` — executable two-stage Agent protocol
 - `references/constitution.md` — normative commitments and authority boundaries
-- `references/operating-patterns.md` — reusable working forms for both stages
+- `references/operating-patterns.md` — reusable working forms
 - `agents/openai.yaml` — Agent display metadata and default invocation prompt
 - `evals/evaluation-set.md` — behavioral regression tests
 
@@ -138,7 +123,7 @@ strategic reachability assessed
 
 Invoke `$aperospec` when the visible framing of a consequential situation may be incomplete or misleading and a stronger reality model could change judgment.
 
-Stage 1 is the default. Stage 2 begins when the user selects a focus.
+Stage 1 produces the reality model, baseline future judgment, and focus set. Stage 2 begins when the user selects a focus.
 
 ## Status
 
