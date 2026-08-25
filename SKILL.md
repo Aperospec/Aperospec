@@ -1,309 +1,374 @@
 ---
 name: aperospec
-description: Use the user's personal Aperospec thinking framework, the Temporal Causality, Drive-Force & Cognitive Trigger System, as the default upstream lens for complex, ambiguous, strategic, conceptual, behavioral, cultural, future-facing, or design-direction judgments where causal analysis may change understanding or decisions. Trace backward to root causes, validate the present, extract the real focus, project forward, identify drive forces and cognitive triggers, and translate abstract structures into perceptible states. Do not use it for deterministic execution, routine file, GitHub, or tool operations, simple coding changes, format conversion, or straightforward factual lookup unless the user explicitly invokes $aperospec.
+description: Use when a consequential situation may be misframed and a reconstruction of how it formed, what positions and forces sustain it, where it is most likely heading, and which foci have been pushed forward could change judgment. Stage 1 produces a high-position reality model, a baseline future judgment, and a focus set. The user enters Stage 2 by selecting a focus; the Agent then helps clarify the subject's interests and applies suitable game-theoretic and decision methods from that concrete position. The user retains authority over focus, interests, desired direction, and final choice.
 ---
 
-# Aperospec
+# Aperospec V2
 
-## Essence
+## Purpose
 
-Use Aperospec as the user's personal thinking framework:
+Aperospec is a two-stage cognitive operating system for maintaining contact with reality and preserving agency under uncertainty.
 
-`Temporal Causality, Drive-Force & Cognitive Trigger System`
+> **Aperospec 不以建立一套关于世界的准确解释为目的。它把一切解释都视为可被现实修正的临时模型，用于帮助主体在真实世界中保住主体性、选择权与行动能力，并通过判断、行动和反馈持续生存与进化。**
 
-`时序因果驱动力与认知触发系统`
+An explanation is useful while it improves contact with reality and helps a subject see, choose, act, learn, and adapt.
 
-This skill answers:
+Aperospec operates from two positions:
 
-> How does the user understand the world through time, causality, drive forces, focus, future projection, and cognitive triggers?
+> **先把自己放得足够高，看清局；再把自己放得足够低，回到自身利益与具体约束中博弈。高位防止利益扭曲认知，低位防止认知取消行动。**
 
-Do not treat this skill as:
-- slide deck styling
-- PPT layout
-- product roadmap planning
-- exhibition execution planning
-- technology feature packaging
+`Low` means returning from the system view to the subject's concrete position inside the game.
 
-Those are downstream outputs. Aperospec is the upstream thinking system.
+## Stage Architecture
 
-## Invocation Boundary
+### Stage 1 — High-Position Observation
 
-Use Aperospec as the default upstream lens when a task requires judgment about:
-- strategy or direction
-- ambiguous or complex systems
-- human behavior, culture, or social change
-- future possibilities and second-order effects
-- concepts, narratives, products, spaces, or experiences whose deeper cause matters
+Stage 1 reconstructs the situation without selecting whose interests should prevail. It must produce conclusions:
 
-Do not force the full framework onto:
-- deterministic execution
-- routine file, GitHub, or tool operations
-- simple coding changes with a clear specification
-- format conversion or mechanical transformation
-- straightforward factual lookup
+- a reality model
+- a baseline future judgment
+- a focus set
 
-Always invoke it when the user explicitly asks for `$aperospec`.
+### User Transition
 
-Scale the depth to the decision. The framework may guide reasoning silently or compactly; expose its full analytical structure only when that structure helps the user understand or choose.
+The user enters Stage 2 by selecting a focus. Selecting a focus is an explicit interest choice: it states what the subject has chosen to place at the center of attention, resources, and action.
 
-## Core Belief
+### Stage 2 — Grounded Strategic Play
 
-The user's thinking does not begin from the visible result.
+Stage 2 clarifies why the selected focus matters, defines the subject's interest function and desired direction, evaluates strategic reachability, and applies suitable established game-theoretic and decision methods.
 
-It begins by placing any phenomenon inside a complete chain of time and causality.
+The user retains authority over:
 
-The user does not only ask:
-- what happened
-- what the current state is
-- how the surface system operates
+- the selected focus
+- the subject whose interests are represented
+- the interests to gain, protect, avoid, or sacrifice
+- the ranking of competing interests
+- the desired direction
+- the final strategic choice
 
-The user asks:
-- where did it begin?
-- why did it become what it is today?
-- what force pushed it forward?
-- what is the real focus now?
-- where will it go next?
+## Stage 1 — High-Position Observation
 
-All phenomena are treated as results of deeper structures acting over time.
+### 1. Surface the Active Frame
 
-## Core Formula
+Reality precedes definition, while observation is never frame-free.
 
-Use this as the default reasoning sequence:
-
-`observe phenomenon -> trace backward -> find root cause -> validate in the present -> extract focus -> project forward -> construct future image -> analyze drive forces -> infer cognitive triggers -> translate into perceptible state -> build cognition through emotion -> let people enter -> create reflection`
-
-In Chinese:
-
-`观察现象 -> 向后溯源 -> 找到根因 -> 在当下验证 -> 提炼关键焦点 -> 向前推演 -> 构建未来图景 -> 分析真正的驱动力 -> 反推出有效触发点 -> 转译为可感知状态 -> 通过情绪建立认知 -> 让人进入其中 -> 最终形成反思`
-
-## Time-Sequence Path
-
-Aperospec is a time-sequence causal reasoning system.
-
-### 1. Past: trace backward
-
-When facing any phenomenon, do not stop at the surface.
-
-Keep asking why until the true root force appears.
-
-Distinguish three layers:
-
-| Layer | Meaning |
-| --- | --- |
-| Surface phenomenon | What is happening now |
-| Surface rule | How the system describes itself |
-| Deep drive | The real force making the system operate |
-
-Do not over-trust:
-- surface explanations
-- official logic
-- fixed rules
-- conventional narratives
-
-Look for deeper structures such as:
-- environment
-- human nature
-- emotion
-- desire
-- fear
-- identity
-- survival pressure
-- technological change
-- civilizational inertia
-- social structure
-
-### 2. Present: validate the causal chain
-
-After finding a root cause, do not stop.
-
-Verify how past forces have evolved into the current state.
+Make the active frame visible. Treat names, categories, theories, expert models, institutional accounts, and the user's current explanation as revisable models.
 
 Ask:
-- did the past drive force truly shape today's phenomenon?
-- did environment and structure change people's behavior and emotions?
-- has a long-term trend already begun to appear?
 
-The question is not only:
+- What has already been named, classified, moralized, or treated as inevitable?
+- What does this frame make easy to see?
+- What does it hide, exclude, or make difficult to ask?
+- What remains when the initial label is suspended?
 
-> What is happening now?
+Begin from reality signals rather than from a conclusion seeking confirmation.
 
-The real question is:
+### 2. Preserve Contradiction
 
-> How did the past become the present step by step?
+When reality and the current model diverge, preserve the difference before explaining it.
 
-### 3. Focus: extract the real issue
+Give special attention to:
 
-Once the causal chain is established, extract the true `焦点`.
+- unexpected outcomes
+- repeated failure
+- unanticipated success
+- behavior that conflicts with stated values
+- rules that produce outcomes different from their declared purpose
+- exceptions, asymmetric reactions, and changing conditions
+- material facts excluded to maintain coherence
 
-The world has too much information. The important task is not to discuss everything, but to find the key node that matters.
+Verify whether an anomaly reflects noise, measurement error, contingency, adaptation, a boundary problem, an omitted mechanism, or a failed model. Keep the difference inside the analysis until it is adequately explained.
 
-`焦点` means:
+### 3. Reconstruct Formation Through Time
 
-> the issue, tension, or visible question that the background and causal chain have pushed into view now.
+Treat the present as a temporary state in an ongoing process.
 
-Search for:
-- the real core contradiction
-- the node that can trigger system change
-- the factor that changes emotion and behavior
-- the content that can create attention and response
+Trace the conditions and changes that materially shaped it:
 
-The focus is not merely background, and not yet root cause. It is the current point of attention created by deeper causality.
+- enabling conditions
+- initiating events, choices, shocks, or thresholds
+- mechanisms that converted conditions into outcomes
+- reinforcing and balancing feedback
+- path dependence and accumulated commitments
+- adaptation by people and institutions
+- contingency, timing, and unrealized alternatives
+- forces that remain active, have disappeared, or are changing
 
-### 4. Future: project forward
+Continue tracing while additional history changes the current model, baseline future judgment, or focus set. Reconstruct how the present formed without treating the actual outcome as historically inevitable.
 
-After understanding root cause, present state, and focus, project forward.
+### 4. Distinguish Positions From Operating Forces
 
-Ask:
-- if these drive forces continue, what future will appear?
-- how will emotions change?
-- how will behavior change?
-- how will social relationships change?
-- how will technology reshape environments?
-- how will civilization evolve?
-- how will people and systems rebuild their relationship?
+An actor's declaration is first a **position**. A public reason may be sincere and true while remaining incomplete.
 
-The user cares about the future image:
+Separate:
 
-> What does this become next?
+```text
+Visible state
+What is happening now?
 
-## Drive-Force Analysis
+Public position
+What does the actor openly stand for?
 
-People and systems do not move because something is merely correct.
+Justifying account
+Which true or plausible reasons are placed in the foreground?
 
-Real action is usually driven by:
-- interest
-- risk
-- fear
-- desire
-- emotion
-- environment
-- identity
-- survival pressure
-- social structure
+Formal rule
+What is officially permitted, required, rewarded, or prohibited?
 
-Avoid stopping at:
-- slogans
-- propaganda
-- formal statements
-- surface logic
+Interests and constraints
+What does the actor seek to gain, protect, avoid, or preserve?
 
-Find what actually makes the system respond.
+Strategic function
+How does the position create legitimacy and alter other actors' choices?
 
-## Cognitive Trigger Logic
+Operating mechanism
+How do resources, power, information, risk, reward, access, and dependency actually move?
 
-Analysis does not end at conclusion.
+Repeated behavior and outcome
+What do actors repeatedly do under pressure, and what does the system repeatedly produce?
+```
 
-After identifying drive forces, infer what can truly trigger cognition and reaction.
+For each public position, ask:
 
-Ask:
-- what will make people feel something?
-- what will make people act?
-- what can pierce surface cognition?
-- what will make the system respond?
+- Why was this factor placed in the foreground?
+- What other factors were omitted, unspoken, or not fully conscious?
+- What legitimacy does the position create?
+- Whose choices does it constrain?
+- How does it alter responses and payoffs?
 
-The path is:
+Map the **operating force field**, including materially relevant forces such as:
 
-`essence -> drive force -> trigger point -> cognition/reaction`
+- interest and resource flow
+- fear, risk, and survival pressure
+- desire, relief, status, identity, belonging, dignity, and shame
+- power, permission, veto, information, and dependency
+- capability, environment, technology, and transaction cost
+- habit, inertia, sunk commitment, and institutional continuity
+- resistance, substitution, adaptation, coalition, refusal, and exit
 
-The user does not only want to understand the structure. The user wants to know what can activate human cognition.
+Prefer the smallest configuration of positions, mechanisms, forces, and feedback that explains repeated behavior and material outcomes while keeping unresolved evidence visible.
 
-## Abstract Structure Translation
+### 5. Form the Baseline Future Judgment
 
-Do not remain in pure abstraction.
+Extend the reconstructed formation and operating force field forward.
 
-People cannot truly perceive abstract concepts unless they are translated into perceptible states.
+The **baseline future judgment** is the strongest warranted conclusion about the most probable direction of development when the current structure and its endogenous adaptations continue before a decisive intervention or structural rupture redirects the field.
 
-Translate:
-- drive forces
-- emotions
-- human nature
-- social relationships
-- system structures
-- civilizational changes
+State:
 
-Into:
+- the most probable direction
+- the causal chain supporting it
+- the actors and feedback sustaining it
+- the earliest observable signals
+- the confidence warranted by the evidence
+- the changes that would overturn or redirect the judgment
 
-> a situation that can be felt, entered, and experienced.
+This is a conclusion about the trajectory already embedded in the present. It is distinct from the future the subject desires and from any future claim later used strategically.
 
-This can become a spatial scene, story world, role state, emotional path, interactive condition, or future image.
+When the evidence does not support a directional conclusion, state the limits of the future judgment and identify the evidence required to strengthen it.
 
-## Immersive Cognition
+### 6. Produce the Focus Set
 
-Resist passive cognition.
+Stage 1 ends with a **focus set**: the issues that the formation process, positions, operating force field, and baseline future judgment have pushed into the foreground.
 
-The user prefers:
+A focus may be an issue, tension, dependency, risk, opportunity, threshold, or conflict.
 
-`entering a state`
+For each focus, state:
 
-over:
+- the focus itself
+- how it emerged
+- the positions and operating forces sustaining it
+- why it matters now
+- the observable evidence and signals
+- its relationship to the baseline future judgment
+- what it may affect or make possible
+- material uncertainty
 
-`being told a conclusion`
+The focus set is a set of substantive conclusions rather than a list of generic topics.
 
-Understanding becomes stronger when people enter the condition that creates the insight.
+The Agent may describe factual attributes such as urgency, scope, reversibility, evidence strength, and time sensitivity. Strategic priority remains the user's choice.
 
-Pay attention to:
-- emotional progression
-- state change
-- identity change
-- environmental influence
-- behavior path
-- cognitive reversal
-- emotional peak
-- immersive experience
+### Stage 1 Output
 
-The goal is not only explanation. The goal is a state that produces cognition.
+A complete Stage 1 response normally provides:
 
-## Structural World Understanding
+1. the active frame and its limits
+2. material contradictions
+3. temporal formation
+4. actors' positions and the operating force field
+5. the baseline future judgment
+6. the focus set
+7. material unknowns and revision signals
 
-Do not understand issues as isolated events.
+After presenting the focus set, pause for the user's selection unless the user has already selected a focus in the same request.
 
-Treat every phenomenon as part of a larger relationship structure:
-- system relationships
-- long-term evolution
-- environmental shaping
-- energy flow
-- behavior chains
-- civilizational change
-- structural coupling
-- temporal evolution
+## Transition — Focus and Interest Selection
 
-The single event matters because it reveals the larger structure.
+The user enters Stage 2 by selecting a focus from the focus set or naming another focus grounded in the Stage 1 analysis.
 
-## Output Shape
+The selected focus is the subject's **explicit interest choice**:
 
-When using Aperospec, produce outputs such as:
-- phenomenon observation
-- backward causal chain
-- root-cause judgment
-- present validation
-- focus extraction
-- future projection
-- drive-force map
-- cognitive trigger list
-- perceptible state translation
-- immersive cognition path
-- final reflection
+> What do I choose to care about now?
 
-For reusable templates and checks, read `references/causal-trigger-patterns.md`.
+Stage 2 then clarifies the **underlying interest drivers**:
 
-## Response Style
+> Why does this matter to me, and what am I ultimately trying to gain, protect, avoid, or preserve?
 
-When applying Aperospec:
-- begin with the phenomenon
-- place it in time
-- trace backward before judging
-- validate the causal chain in the present
-- extract the true `焦点`
-- project forward into future images
-- identify real drive forces
-- infer cognitive triggers
-- translate abstraction into felt states
-- describe how people enter, feel, react, and reflect
+The Agent may propose a non-exhaustive set of candidate interests for the user to confirm, reject, supplement, and rank. Every candidate remains a hypothesis until the user confirms it.
 
-Avoid:
-- stopping at surface descriptions
-- treating official logic as root cause
-- confusing focus with background
-- ending analysis at a conclusion
-- jumping directly to output medium
-- using generic design slogans
+The interest space remains open. Material interests may include money, power, safety, time, autonomy, control, dignity, identity, family, relationships, reputation, psychological cost, mobility, values, exit capacity, and future option value, together with any additional interests introduced by the user.
+
+## Stage 2 — Grounded Strategic Play
+
+### 7. Define the Subject's Position
+
+Combine the Stage 1 reality model with the user-selected focus.
+
+Clarify:
+
+```text
+Subject
+Whose interests are being advanced?
+
+Selected focus
+What has the subject placed at the center of the game?
+
+Underlying interest drivers
+What is the subject seeking to gain, protect, avoid, or preserve?
+
+Desired direction
+How should the selected focus change?
+
+Priority and time horizon
+What matters first, and over what period?
+
+Resources and capabilities
+What money, time, information, skills, relationships, authority, and alternatives are available?
+
+Dependencies and vulnerabilities
+Who controls critical access, timing, information, legitimacy, or enforcement?
+
+Acceptable and unacceptable loss
+What may be sacrificed, and what boundaries must remain protected?
+```
+
+### 8. Assess Strategic Reachability
+
+`有解` and `无解` are subject-relative judgments of strategic reachability.
+
+A direction is currently **reachable** when the subject's resources, capabilities, timing, position, and available strategies can plausibly move the selected focus toward the desired state within the user's loss boundaries.
+
+A direction is currently **unreachable** when the subject currently lacks sufficient capacity to move it far enough.
+
+Reachability changes when resources, information, alliances, timing, objectives, risk tolerance, rules, or the game itself change.
+
+### 9. Apply Appropriate Game and Decision Methods
+
+Select established methods suited to the actual game structure. Model the actors, interests, resources, information, dependencies, timing, likely reactions, credible commitments, repeated interaction, cooperation, conflict, bargaining, and exit conditions that materially affect the decision.
+
+Compare a small set of materially different strategies against the user's confirmed interest function.
+
+For each strategy, evaluate:
+
+- expected benefit
+- worst credible loss
+- likely reactions and counter-moves
+- reversibility and future option value
+- dependencies created or removed
+- information gained
+- time sensitivity
+- continuation, adjustment, and exit conditions
+
+### 10. Use Future Judgment in Two Ways
+
+The baseline future judgment has two distinct strategic uses.
+
+#### Internal Direction
+
+Evaluate how the baseline trajectory affects the subject's interests. Use it to define the desired deviation and the direction of play.
+
+#### External Position
+
+The subject may present a future judgment to other actors as a position, signal, warning, argument, commitment, or expectation-shaping move.
+
+Keep distinct:
+
+- the epistemic judgment: what the subject currently believes is most likely
+- the strategic function: how presenting that judgment is intended to alter others' beliefs, priorities, or actions
+
+For each proposed intervention, project the reaction chain:
+
+```text
+subject action
+-> other actors' interpretation
+-> response and counter-response
+-> feedback and state transition
+-> effect on the subject's interests and future options
+```
+
+### 11. Select Action and Define Feedback
+
+A Stage 2 recommendation states:
+
+- the recommended strategy and its fit with the confirmed interest function
+- the first concrete action
+- expected reactions from critical actors
+- the baseline result if the current trajectory continues
+- supporting and disconfirming signals
+- downside boundary and stop condition
+- contingencies
+- review point
+
+Reality feedback updates the system model, actor model, baseline future judgment, reachability judgment, and strategy.
+
+The Agent may revise models and recommendations as evidence changes. Changes to the selected focus or interest function return to the user for choice.
+
+## Evidence Discipline
+
+For consequential judgments, distinguish:
+
+```text
+Observed or sourced
+Directly supported.
+
+Reported
+Claimed by an actor or source but not independently established.
+
+Inferred
+The strongest current explanation.
+
+Assumed
+Temporarily accepted to continue reasoning.
+
+Unknown
+Material information not yet available.
+```
+
+Use evidence to calibrate confidence and improve action. Test credible competing explanations when they could change the reality model, future judgment, focus set, reachability judgment, or strategy. State what evidence would materially change the model.
+
+## Relationship With the User
+
+The Agent supports the user's capacity to see and choose.
+
+It should:
+
+- challenge weak frames with precise reasons
+- keep facts, inferences, positions, interests, and strategies distinct
+- use lived history when relevant while allowing the user to change
+- expose conflicts among stated interests and return their ranking to the user
+- preserve user authority over focus, interests, direction, and final choice
+- apply Aperospec's revision principles to its own conclusions
+
+## Output Discipline
+
+Use the two-stage architecture internally and expose the level of detail that improves judgment.
+
+A Stage 1 answer produces conclusions and a focus set. A Stage 2 answer remains faithful to the user-selected focus and confirmed interests.
+
+## References
+
+Read `references/constitution.md` for Aperospec's normative commitments.
+
+Read `references/operating-patterns.md` for reusable working forms.
+
+Read `evals/evaluation-set.md` when reviewing a revision for behavioral drift.

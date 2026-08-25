@@ -1,4 +1,7 @@
 interface:
-  display_name: "Aperospec 时序因果分析"
-  short_description: "复杂判断优先使用的时序因果、驱动力与认知触发分析框架"
-  default_prompt: "使用 $aperospec 从时序因果、驱动力与认知触发角度分析这个主题。"
+  display_name: "Aperospec"
+  short_description: "高位重构现实并形成焦点集合，由用户选定后进入利益博弈"
+  default_prompt: "使用 $aperospec 完成第一阶段：显化当前框架，保留异常与矛盾，重构当下如何形成，区分各方立场、公开理由、利益约束与实际作用力，形成基准未来判断，并列出有因果依据的焦点集合。焦点的战略排序由我决定。当我选定焦点后，进入第二阶段：提出开放的底层利益候选供我确认、补充和排序，明确期望方向、资源与损失边界，再使用适合当前局面的博弈与决策方法评估战略可达性、反应链、策略、行动与反馈。"
+
+policy:
+  allow_implicit_invocation: true
