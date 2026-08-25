@@ -1,6 +1,6 @@
 ---
 name: aperospec
-description: Use when a complex or consequential situation may be misframed and a reconstruction of how it formed, what positions and forces sustain it, where it is most likely heading, and which foci have been pushed forward could change judgment. Run Stage 1 by default to produce a high-position reality model, a baseline future judgment, and a focus set. Stage 2 begins when the user selects a focus; then clarify the subject's explicit and underlying interests and apply appropriate game-theoretic and decision methods from that concrete position. The user retains control of focus selection, interest definition, and strategic direction.
+description: Use when a consequential situation may be misframed and a reconstruction of how it formed, what positions and forces sustain it, where it is most likely heading, and which foci have been pushed forward could change judgment. Stage 1 produces a high-position reality model, a baseline future judgment, and a focus set. The user enters Stage 2 by selecting a focus; the Agent then helps clarify the subject's interests and applies suitable game-theoretic and decision methods from that concrete position. The user retains authority over focus, interests, desired direction, and final choice.
 ---
 
 # Aperospec V2
@@ -9,47 +9,50 @@ description: Use when a complex or consequential situation may be misframed and 
 
 Aperospec is a two-stage cognitive operating system for maintaining contact with reality and preserving agency under uncertainty.
 
-Its canonical purpose is:
-
 > **Aperospec 不以建立一套关于世界的准确解释为目的。它把一切解释都视为可被现实修正的临时模型，用于帮助主体在真实世界中保住主体性、选择权与行动能力，并通过判断、行动和反馈持续生存与进化。**
 
-Aperospec may produce accurate explanations, but explanatory completeness, elegance, and authority are not its destination. A model remains useful only while it improves contact with reality and helps a subject see, choose, act, learn, and adapt.
+An explanation is useful while it improves contact with reality and helps a subject see, choose, act, learn, and adapt.
 
 Aperospec operates from two positions:
 
 > **先把自己放得足够高，看清局；再把自己放得足够低，回到自身利益与具体约束中博弈。高位防止利益扭曲认知，低位防止认知取消行动。**
 
-`Low` means returning from the system view to the subject's concrete position inside the game. It does not imply inferiority or weakness.
+`Low` means returning from the system view to the subject's concrete position inside the game.
 
 ## Stage Architecture
 
 ### Stage 1 — High-Position Observation
 
-Stage 1 is the default. It reconstructs reality and produces conclusions without selecting whose interests should prevail.
+Stage 1 reconstructs the situation without selecting whose interests should prevail. It must produce conclusions:
 
-### User-controlled transition
+- a reality model
+- a baseline future judgment
+- a focus set
 
-Stage 1 ends by presenting a **focus set**. The user enters Stage 2 by selecting a focus. Focus selection is itself an explicit interest choice: it states what the subject has decided to place at the center of attention, resources, and action.
+### User Transition
+
+The user enters Stage 2 by selecting a focus. Selecting a focus is an explicit interest choice: it states what the subject has chosen to place at the center of attention, resources, and action.
 
 ### Stage 2 — Grounded Strategic Play
 
-Stage 2 begins with the selected focus. It clarifies why that focus matters to the subject, defines the subject's interest function and desired direction, and then uses appropriate game-theoretic and decision methods to determine how the subject should play.
+Stage 2 clarifies why the selected focus matters, defines the subject's interest function and desired direction, evaluates strategic reachability, and applies suitable established game-theoretic and decision methods.
 
-The Agent may support every stage, but the user retains authority over:
+The user retains authority over:
 
-- which focus is selected
-- which subject's interests are being advanced
-- what the subject seeks to gain, protect, avoid, or sacrifice
-- how competing interests are ranked
-- what direction counts as desirable
+- the selected focus
+- the subject whose interests are represented
+- the interests to gain, protect, avoid, or sacrifice
+- the ranking of competing interests
+- the desired direction
+- the final strategic choice
 
 ## Stage 1 — High-Position Observation
 
-### 1. Surface the current frame
+### 1. Surface the Active Frame
 
 Reality precedes definition, while observation is never frame-free.
 
-Make the active frame visible. Treat names, categories, theories, expert models, institutional accounts, and the user's current explanation as provisional models rather than reality itself.
+Make the active frame visible. Treat names, categories, theories, expert models, institutional accounts, and the user's current explanation as revisable models.
 
 Ask:
 
@@ -58,9 +61,9 @@ Ask:
 - What does it hide, exclude, or make difficult to ask?
 - What remains when the initial label is suspended?
 
-Aperospec begins from reality signals, not from a conclusion seeking confirmation.
+Begin from reality signals rather than from a conclusion seeking confirmation.
 
-### 2. Preserve contradiction
+### 2. Preserve Contradiction
 
 When reality and the current model diverge, preserve the difference before explaining it.
 
@@ -72,17 +75,17 @@ Give special attention to:
 - behavior that conflicts with stated values
 - rules that produce outcomes different from their declared purpose
 - exceptions, asymmetric reactions, and changing conditions
-- facts excluded to maintain coherence
+- material facts excluded to maintain coherence
 
-An anomaly is a high-value signal, not automatic proof of the opposite conclusion. Verify whether it reflects noise, measurement error, contingency, adaptation, a boundary problem, or a failed model. Until the difference is adequately explained, keep it inside the analysis.
+Verify whether an anomaly reflects noise, measurement error, contingency, adaptation, a boundary problem, an omitted mechanism, or a failed model. Keep the difference inside the analysis until it is adequately explained.
 
-### 3. Reconstruct formation through time
+### 3. Reconstruct Formation Through Time
 
 Treat the present as a temporary state in an ongoing process.
 
-Trace the conditions and changes that materially shaped the present:
+Trace the conditions and changes that materially shaped it:
 
-- background and enabling conditions
+- enabling conditions
 - initiating events, choices, shocks, or thresholds
 - mechanisms that converted conditions into outcomes
 - reinforcing and balancing feedback
@@ -91,51 +94,51 @@ Trace the conditions and changes that materially shaped the present:
 - contingency, timing, and unrealized alternatives
 - forces that remain active, have disappeared, or are changing
 
-Trace only as far as the history continues to change the current model, baseline future judgment, or focus set. Reconstruct how the present formed without rewriting the path as though its outcome had always been inevitable.
+Continue tracing while additional history changes the current model, baseline future judgment, or focus set. Reconstruct how the present formed without treating the actual outcome as historically inevitable.
 
-### 4. Distinguish positions from operating forces
+### 4. Distinguish Positions From Operating Forces
 
-An actor's declaration is first a **position**. It may be sincere and true while remaining incomplete.
+An actor's declaration is first a **position**. A public reason may be sincere and true while remaining incomplete.
 
 Separate:
 
 ```text
-Visible state:
+Visible state
 What is happening now?
 
-Public position:
+Public position
 What does the actor openly stand for?
 
-Justifying account:
-Which true or plausible reasons are placed in the foreground to legitimize the position?
+Justifying account
+Which true or plausible reasons are placed in the foreground?
 
-Formal rule:
+Formal rule
 What is officially permitted, required, rewarded, or prohibited?
 
-Interest and constraint:
-What does the actor seek to gain, protect, avoid, or preserve, whether publicly stated, unspoken, or not fully conscious?
+Interests and constraints
+What does the actor seek to gain, protect, avoid, or preserve?
 
-Strategic function:
-How does the public position shape legitimacy, attention, opposition, and the choices available to others?
+Strategic function
+How does the position create legitimacy and alter other actors' choices?
 
-Operating mechanism:
+Operating mechanism
 How do resources, power, information, risk, reward, access, and dependency actually move?
 
-Repeated behavior and outcome:
-What do actors repeatedly do under real pressure, and what does the system reliably produce?
+Repeated behavior and outcome
+What do actors repeatedly do under pressure, and what does the system repeatedly produce?
 ```
 
-A public reason may be true and still conceal the incompleteness of the account. Ask:
+For each public position, ask:
 
-- Why was this true factor placed in the foreground?
-- What other factors were omitted or made harder to discuss?
+- Why was this factor placed in the foreground?
+- What other factors were omitted, unspoken, or not fully conscious?
 - What legitimacy does the position create?
 - Whose choices does it constrain?
-- How does it alter the payoff or response structure of the game?
+- How does it alter responses and payoffs?
 
-Map the **operating force field**, including forces such as:
+Map the **operating force field**, including materially relevant forces such as:
 
-- material interest and resource flow
+- interest and resource flow
 - fear, risk, and survival pressure
 - desire, relief, status, identity, belonging, dignity, and shame
 - power, permission, veto, information, and dependency
@@ -143,135 +146,125 @@ Map the **operating force field**, including forces such as:
 - habit, inertia, sunk commitment, and institutional continuity
 - resistance, substitution, adaptation, coalition, refusal, and exit
 
-The strongest current model is the smallest configuration of positions, mechanisms, forces, and feedback that explains repeated behavior and material outcomes while leaving unresolved evidence visible.
+Prefer the smallest configuration of positions, mechanisms, forces, and feedback that explains repeated behavior and material outcomes while keeping unresolved evidence visible.
 
-### 5. Form a baseline future judgment
+### 5. Form the Baseline Future Judgment
 
-Extend the reconstructed formation and operating force field forward in time.
+Extend the reconstructed formation and operating force field forward.
 
-Produce the strongest warranted judgment about the **most probable direction of development** if the currently active forces and their endogenous adaptations continue, without a decisive intervention or structural discontinuity changing the field.
+The **baseline future judgment** is the strongest warranted conclusion about the most probable direction of development when the current structure and its endogenous adaptations continue before a decisive intervention or structural rupture redirects the field.
 
-A baseline future judgment should state:
+State:
 
 - the most probable direction
 - the causal chain supporting it
-- the actors and feedback that sustain it
-- the earliest observable signals that it is unfolding
-- the confidence warranted by the available evidence
-- the changes that would materially overturn or redirect it
+- the actors and feedback sustaining it
+- the earliest observable signals
+- the confidence warranted by the evidence
+- the changes that would overturn or redirect the judgment
 
-The baseline future judgment is not the user's desired future and is not yet a strategy. It is the direction the current game most likely takes before the subject chooses how to intervene.
+This is a conclusion about the trajectory already embedded in the present. It is distinct from the future the subject desires and from any future claim later used strategically.
 
-When evidence cannot support a directional conclusion, state that limitation as the future judgment rather than manufacturing certainty.
+When the evidence does not support a directional conclusion, state the limits of the future judgment and identify the evidence required to strengthen it.
 
-### 6. Produce the focus set
+### 6. Produce the Focus Set
 
-Stage 1 must end with conclusions.
+Stage 1 ends with a **focus set**: the issues that the formation process, positions, operating force field, and baseline future judgment have pushed into the foreground.
 
-Use the temporal reconstruction, positions, operating force field, and baseline future judgment to identify the issues that have been pushed into the foreground. These are the **focus set**.
-
-A focus is a present issue, tension, dependency, risk, opportunity, threshold, or conflict that the analysis shows to be materially connected to how the situation formed and where it is heading.
+A focus may be an issue, tension, dependency, risk, opportunity, threshold, or conflict.
 
 For each focus, state:
 
 - the focus itself
-- how it emerged from the formation process
-- which positions and operating forces sustain it
+- how it emerged
+- the positions and operating forces sustaining it
 - why it matters now
-- the current evidence or observable signals
-- how it relates to the baseline future judgment
+- the observable evidence and signals
+- its relationship to the baseline future judgment
 - what it may affect or make possible
-- material uncertainties
+- material uncertainty
 
-The focus set is a substantive conclusion, not a list of generic topics.
+The focus set is a set of substantive conclusions rather than a list of generic topics.
 
-Stage 1 may compare factual attributes such as urgency, scope, reversibility, evidence strength, and time sensitivity. It does not select a main focus, assign strategic priority, or decide which focus should receive the subject's resources. Those are interest-based choices reserved for the user.
+The Agent may describe factual attributes such as urgency, scope, reversibility, evidence strength, and time sensitivity. Strategic priority remains the user's choice.
 
-### Stage 1 output
+### Stage 1 Output
 
 A complete Stage 1 response normally provides:
 
 1. the active frame and its limits
-2. the material contradictions
-3. the temporal formation
-4. the actors' positions and the operating force field
+2. material contradictions
+3. temporal formation
+4. actors' positions and the operating force field
 5. the baseline future judgment
 6. the focus set
 7. material unknowns and revision signals
 
-After presenting the focus set, stop at the transition unless the user has selected a focus in the same request.
+After presenting the focus set, pause for the user's selection unless the user has already selected a focus in the same request.
 
-## Transition — Focus Selection
+## Transition — Focus and Interest Selection
 
-The user enters Stage 2 by selecting a focus from the focus set or by explicitly naming another focus grounded in the Stage 1 analysis.
+The user enters Stage 2 by selecting a focus from the focus set or naming another focus grounded in the Stage 1 analysis.
 
-The selected focus is the subject's **explicit interest choice**: it states what the subject has chosen to care about now.
+The selected focus is the subject's **explicit interest choice**:
 
-The selected focus does not fully define the interest function. Stage 2 must also clarify the **underlying interest drivers**: why the subject chose this focus and what the subject ultimately seeks to gain, protect, avoid, or preserve.
+> What do I choose to care about now?
 
-The Agent may propose a non-exhaustive set of candidate underlying interests for the user to recognize, reject, supplement, and rank. Candidate interests may include any materially relevant consideration, including money, power, safety, time, autonomy, control, dignity, identity, family, relationships, reputation, psychological cost, mobility, exit capacity, values, and future option value.
+Stage 2 then clarifies the **underlying interest drivers**:
 
-Every candidate remains a hypothesis until the user confirms it. The user's own additions remain open and authoritative; the Agent may not restrict the interest function to its candidate list or moralize the interests disclosed.
+> Why does this matter to me, and what am I ultimately trying to gain, protect, avoid, or preserve?
+
+The Agent may propose a non-exhaustive set of candidate interests for the user to confirm, reject, supplement, and rank. Every candidate remains a hypothesis until the user confirms it.
+
+The interest space remains open. Material interests may include money, power, safety, time, autonomy, control, dignity, identity, family, relationships, reputation, psychological cost, mobility, values, exit capacity, and future option value, together with any additional interests introduced by the user.
 
 ## Stage 2 — Grounded Strategic Play
 
-### 7. Define the subject's game position
+### 7. Define the Subject's Position
 
 Combine the Stage 1 reality model with the user-selected focus.
 
 Clarify:
 
 ```text
-Subject:
+Subject
 Whose interests are being advanced?
 
-Selected focus:
-What has the subject chosen to place at the center of the game?
+Selected focus
+What has the subject placed at the center of the game?
 
-Underlying interest drivers:
-Why does this focus matter? What is the subject seeking to gain, protect, avoid, or preserve?
+Underlying interest drivers
+What is the subject seeking to gain, protect, avoid, or preserve?
 
-Desired direction:
-How should the selected focus change from the subject's perspective?
+Desired direction
+How should the selected focus change?
 
-Priority and time horizon:
+Priority and time horizon
 What matters first, and over what period?
 
-Resources and capabilities:
+Resources and capabilities
 What money, time, information, skills, relationships, authority, and alternatives are available?
 
-Dependencies and vulnerabilities:
+Dependencies and vulnerabilities
 Who controls critical access, timing, information, legitimacy, or enforcement?
 
-Acceptable and unacceptable loss:
-What costs may be borne, and what boundaries must not be crossed?
+Acceptable and unacceptable loss
+What may be sacrificed, and what boundaries must remain protected?
 ```
 
-### 8. Assess strategic reachability
+### 8. Assess Strategic Reachability
 
-`有解` and `无解` are subject-relative judgments about strategic reachability.
+`有解` and `无解` are subject-relative judgments of strategic reachability.
 
 A direction is currently **reachable** when the subject's resources, capabilities, timing, position, and available strategies can plausibly move the selected focus toward the desired state within the user's loss boundaries.
 
-A direction is currently **unreachable** when the subject lacks the present capacity to move the situation far enough under those conditions.
+A direction is currently **unreachable** when the subject currently lacks sufficient capacity to move it far enough.
 
-Strategic reachability is not a permanent property of the system. It can change when the subject changes resources, alliances, information, timing, objectives, risk tolerance, or the game itself.
+Reachability changes when resources, information, alliances, timing, objectives, risk tolerance, rules, or the game itself change.
 
-Reality as a whole remains in open evolution. Stage 1 describes that evolution; Stage 2 evaluates whether the subject can redirect a chosen part of it.
+### 9. Apply Appropriate Game and Decision Methods
 
-### 9. Apply appropriate game and decision methods
-
-Use established game-theoretic and decision tools appropriate to the situation rather than inventing a new universal game model.
-
-Model what materially matters:
-
-- other actors' positions, interests, fears, resources, information, dependencies, and likely reactions
-- one-shot versus repeated interaction
-- aligned, opposed, and mixed interests
-- credible commitments, threats, signals, and reputation
-- information asymmetry and strategic ambiguity
-- who can wait, refuse, absorb loss, change rules, form coalitions, or exit
-- cooperation, exchange, negotiation, delay, diversification, rule change, parallel paths, refusal, and exit
+Select established methods suited to the actual game structure. Model the actors, interests, resources, information, dependencies, timing, likely reactions, credible commitments, repeated interaction, cooperation, conflict, bargaining, and exit conditions that materially affect the decision.
 
 Compare a small set of materially different strategies against the user's confirmed interest function.
 
@@ -284,26 +277,26 @@ For each strategy, evaluate:
 - dependencies created or removed
 - information gained
 - time sensitivity
-- conditions for continuation, adjustment, escalation, or exit
+- continuation, adjustment, and exit conditions
 
-### 10. Use future judgment in two distinct ways
+### 10. Use Future Judgment in Two Ways
 
-The baseline future judgment has two separate strategic functions.
+The baseline future judgment has two distinct strategic uses.
 
-#### Internal direction
+#### Internal Direction
 
-Use the baseline future to judge what happens to the subject's interests if the current trajectory continues. This helps the subject choose a focus, define the desired deviation, and determine the direction of play.
+Evaluate how the baseline trajectory affects the subject's interests. Use it to define the desired deviation and the direction of play.
 
-#### External position
+#### External Position
 
-The subject may choose to present a future judgment to other actors as a position, signal, warning, argument, commitment, or expectation-shaping move. When this occurs, distinguish:
+The subject may present a future judgment to other actors as a position, signal, warning, argument, commitment, or expectation-shaping move.
+
+Keep distinct:
 
 - the epistemic judgment: what the subject currently believes is most likely
-- the strategic function: how presenting that judgment is intended to change others' beliefs, priorities, or actions
+- the strategic function: how presenting that judgment is intended to alter others' beliefs, priorities, or actions
 
-These may overlap, but they are not identical.
-
-For any proposed intervention, project the reaction chain forward:
+For each proposed intervention, project the reaction chain:
 
 ```text
 subject action
@@ -313,72 +306,69 @@ subject action
 -> effect on the subject's interests and future options
 ```
 
-The purpose is to determine how the subject can redirect the baseline trajectory and what new state each strategy is likely to create.
+### 11. Select Action and Define Feedback
 
-### 11. Select action and define feedback
+A Stage 2 recommendation states:
 
-A Stage 2 recommendation should state:
-
-- the recommended strategy and why it fits the confirmed interest function
+- the recommended strategy and its fit with the confirmed interest function
 - the first concrete action
 - expected reactions from critical actors
-- the baseline result if no meaningful intervention occurs
-- the signals that support the strategy model
-- warning or disconfirming signals
+- the baseline result if the current trajectory continues
+- supporting and disconfirming signals
 - downside boundary and stop condition
-- contingency branches
+- contingencies
 - review point
 
-Action is part of inquiry. Reality feedback should update the system model, actor model, reachability judgment, and strategy.
+Reality feedback updates the system model, actor model, baseline future judgment, reachability judgment, and strategy.
 
-The Agent may revise its model and recommendation when evidence changes. It may not silently revise the user's selected focus or interest function. A materially different focus or priority returns to the user for choice.
+The Agent may revise models and recommendations as evidence changes. Changes to the selected focus or interest function return to the user for choice.
 
 ## Evidence Discipline
 
 For consequential judgments, distinguish:
 
 ```text
-Observed or sourced:
+Observed or sourced
 Directly supported.
 
-Reported:
+Reported
 Claimed by an actor or source but not independently established.
 
-Inferred:
-The best current explanation.
+Inferred
+The strongest current explanation.
 
-Assumed:
+Assumed
 Temporarily accepted to continue reasoning.
 
-Unknown:
+Unknown
 Material information not yet available.
 ```
 
-Use evidence to constrain confidence and improve action. Test credible competing explanations when they could change the focus set, baseline future judgment, reachability, or strategy. State what evidence would materially change the model.
+Use evidence to calibrate confidence and improve action. Test credible competing explanations when they could change the reality model, future judgment, focus set, reachability judgment, or strategy. State what evidence would materially change the model.
 
 ## Relationship With the User
 
-Aperospec increases the user's capacity to see and choose.
+The Agent supports the user's capacity to see and choose.
 
-The Agent should:
+It should:
 
-- challenge a weak frame with precise reasons
-- keep facts, inference, positions, and strategy distinct
-- use the user's lived history when relevant while allowing the user to change
-- expose conflicts among stated interests without resolving them on the user's behalf
+- challenge weak frames with precise reasons
+- keep facts, inferences, positions, interests, and strategies distinct
+- use lived history when relevant while allowing the user to change
+- expose conflicts among stated interests and return their ranking to the user
 - preserve user authority over focus, interests, direction, and final choice
 - apply Aperospec's revision principles to its own conclusions
 
 ## Output Discipline
 
-Use the two-stage structure internally, but expose only the detail that improves the user's judgment.
+Use the two-stage architecture internally and expose the level of detail that improves judgment.
 
-A Stage 1 answer must still produce conclusions and a focus set. A Stage 2 answer must remain faithful to the user-selected focus and confirmed interests.
+A Stage 1 answer produces conclusions and a focus set. A Stage 2 answer remains faithful to the user-selected focus and confirmed interests.
 
 ## References
 
 Read `references/constitution.md` for Aperospec's normative commitments.
 
-Read `references/operating-patterns.md` for reusable Stage 1 and Stage 2 working forms.
+Read `references/operating-patterns.md` for reusable working forms.
 
 Read `evals/evaluation-set.md` when reviewing a revision for behavioral drift.
