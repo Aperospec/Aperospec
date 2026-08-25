@@ -4,7 +4,7 @@ These forms support `SKILL.md`. They are working instruments rather than a manda
 
 Use the smallest set that improves the live judgment. Preserve unresolved evidence when a form does not fit the reality.
 
-## 1. Stage 1 Frame Map
+## 1. Active Frame Map
 
 ```markdown
 Stated situation:
@@ -20,7 +20,7 @@ What the frame excludes:
 [What actors, time scales, causes, interests, or questions become hard to see?]
 
 Reopened question:
-[What question remains after the frame is treated as a temporary model?]
+[What remains after the frame is treated as a revisable model?]
 ```
 
 ## 2. Contradiction Ledger
@@ -36,15 +36,10 @@ Difference:
 [Where do reality and model diverge?]
 
 Verification status:
-[Confirmed / reported / uncertain / measurement concern.]
+[Observed / sourced / reported / uncertain / measurement concern.]
 
-Possible sources of difference:
-- noise or error
-- contingency or timing
-- boundary problem
-- actor adaptation
-- omitted force or mechanism
-- failed model
+Possible source of difference:
+[Noise, timing, contingency, boundary error, actor adaptation, omitted mechanism, or failed model.]
 
 Implication:
 [What part of the model must remain open?]
@@ -78,9 +73,9 @@ Contingency and unrealized alternatives:
 [What depended on timing, accident, or choices that could have gone another way?]
 
 Active legacy:
-[Which historical forces remain active, have disappeared, or are changing now?]
+[Which historical forces remain active, have disappeared, or are changing?]
 
-Stopping point:
+Sufficient depth:
 [Why does further tracing no longer change the current model, future judgment, or focus set?]
 ```
 
@@ -98,14 +93,14 @@ Public position:
 Justifying account:
 [Which reasons are placed in the foreground?]
 
-Truth status:
+Evidence status:
 [What is supported, partly supported, uncertain, or contradicted?]
 
-Omitted or unspoken factors:
-[What additional interests, constraints, fears, or dependencies may matter? Mark inference as inference.]
+Additional interests and constraints:
+[What else may matter? Mark inference as inference.]
 
-Strategic function of the position:
-[What legitimacy does it create? Whose choices does it constrain? What response or payoff structure does it alter?]
+Strategic function:
+[What legitimacy does the position create? Whose choices or payoffs does it alter?]
 
 Resources and control:
 [Money, access, information, timing, permission, enforcement, relationships.]
@@ -123,7 +118,7 @@ Adaptation, refusal, and exit:
 [How can the actor learn, resist, substitute, coordinate, or leave?]
 ```
 
-### Operating force field compression
+### Operating Force Field Compression
 
 ```markdown
 Dominant configuration:
@@ -140,7 +135,7 @@ Unresolved residue:
 
 ```markdown
 Most probable direction:
-[Where does the situation most likely go if active forces and endogenous adaptation continue without a decisive intervention or structural discontinuity?]
+[Where does the current structure most likely lead as its active forces and endogenous adaptation continue?]
 
 Causal chain:
 [How does the present configuration produce that direction?]
@@ -154,11 +149,11 @@ Early signals:
 Confidence:
 [High / medium / low, with reasons.]
 
-Redirection signals:
-[What evidence, intervention, shock, or structural change would overturn or redirect this judgment?]
+Redirection conditions:
+[What intervention, evidence, shock, or structural change would overturn or redirect the judgment?]
 ```
 
-The baseline future is the strongest warranted directional conclusion, not a list of equally weighted scenarios.
+The baseline future is the strongest warranted directional conclusion. Redirection conditions define how the judgment may change; they do not replace the conclusion with equally weighted scenarios.
 
 ## 6. Focus Set
 
@@ -180,8 +175,8 @@ Why now:
 Evidence and signals:
 [What shows that it is active?]
 
-Relation to the baseline future:
-[How does it affect, reveal, accelerate, or resist the most probable trajectory?]
+Relation to baseline future:
+[How does it reveal, accelerate, resist, or redirect the most probable trajectory?]
 
 Potential effect:
 [What may change if this focus moves?]
@@ -193,9 +188,9 @@ Factual attributes:
 [Urgency, scope, reversibility, evidence strength, time sensitivity.]
 ```
 
-Do not convert factual attributes into an overall strategic priority before the user selects a focus.
+The user determines strategic priority among the foci.
 
-## 7. Stage 1 Completion Form
+## 7. Stage 1 Completion
 
 ```markdown
 Reality model:
@@ -205,18 +200,18 @@ Material contradictions:
 [What the model must still explain.]
 
 Baseline future judgment:
-[The most probable direction and redirection signals.]
+[The most probable direction and redirection conditions.]
 
 Focus set:
 1. [Focus A]
 2. [Focus B]
 3. [Focus C]
 
-Revision conditions:
+Revision signals:
 [What new evidence would change the reality model, future judgment, or focus set?]
 
 Transition:
-[Ask the user to select a focus or state another focus grounded in the analysis.]
+[Invite the user to select a focus or name another focus grounded in the analysis.]
 ```
 
 ## 8. Selected Focus and Interest Clarification
@@ -226,7 +221,7 @@ Subject:
 [Whose interests are being advanced?]
 
 Selected focus:
-[What has the subject chosen to place at the center of attention and action?]
+[What has the subject placed at the center of attention and action?]
 
 Explicit interest choice:
 [What does the selection visibly prioritize?]
@@ -252,10 +247,10 @@ Acceptable loss:
 [What may be sacrificed?]
 
 Protected boundary:
-[What must not be lost or exposed?]
+[What must remain protected?]
 ```
 
-Candidate interests are non-exhaustive hypotheses. Include materially relevant monetary, political, relational, psychological, identity, autonomy, and option-value considerations without moral filtering.
+Candidate interests are non-exhaustive hypotheses. Include materially relevant financial, political, relational, psychological, identity, autonomy, and option-value considerations without moral filtering.
 
 ## 9. Strategic Reachability
 
@@ -281,19 +276,19 @@ Reachability judgment:
 Reason:
 [Why?]
 
-Conditions that would improve reachability:
-[Resources, alliances, timing, information, changed rules, altered objective, exit.]
+Conditions that improve reachability:
+[Resources, alliances, timing, information, changed rules, altered objective, or exit.]
 ```
 
-Reachability is relative to the subject, focus, desired direction, time, and loss boundaries.
+Reachability is relative to the subject, focus, desired direction, time, resources, and loss boundaries.
 
-## 10. Game Map
+## 10. Game Brief
 
 ```markdown
 Game structure:
 [One-shot / repeated / sequential / simultaneous / changing.]
 
-Actors:
+Material actors:
 [Who can act, respond, block, wait, coordinate, or exit?]
 
 Interests and priorities:
@@ -308,60 +303,62 @@ Information:
 Dependencies:
 [Who needs whom, and for what?]
 
-Credible commitments and threats:
-[What can actually be carried out?]
+Commitments and signals:
+[What promises, threats, or signals are credible?]
 
 Time and endurance:
 [Who can wait, absorb cost, or sustain pressure longer?]
 
-Available moves:
-[Cooperation, exchange, negotiation, signaling, delay, diversification, coalition, rule change, parallel path, refusal, exit.]
+Available strategic families:
+[The materially different ways the subject can play.]
 ```
+
+Use the established game-theoretic or decision method that best fits this structure.
 
 ## 11. Future Judgment in Strategy
 
-### Internal direction
+### Internal Direction
 
 ```markdown
 Baseline trajectory:
-[What happens if the game continues without decisive intervention?]
+[What happens as the current structure continues?]
 
-Effect on the subject's interests:
+Effect on subject interests:
 [What is gained, lost, locked in, or exposed?]
 
 Desired deviation:
 [How does the subject want the trajectory to change?]
 ```
 
-### External position
+### External Position
 
 ```markdown
-Future judgment to be presented:
+Future judgment to present:
 [What claim or expectation will be communicated?]
 
 Epistemic basis:
-[What does the subject actually believe and with what confidence?]
+[What does the subject actually believe, and with what confidence?]
 
 Strategic function:
 [How is presenting it intended to alter another actor's beliefs, priorities, timing, or action?]
 
 Credibility and risk:
-[What supports the signal, and what happens if it is rejected or disproved?]
+[What supports the position, and what happens if it is rejected or disproved?]
 ```
 
 Keep the truth judgment and strategic function distinct.
 
-## 12. Strategy Portfolio
+## 12. Strategy Comparison
 
 Use a small set of materially different strategies.
 
-| Strategy | Expected benefit | Worst credible loss | Likely reactions | Reversibility | Information gained | Dependencies | Time sensitivity | Exit / adjustment condition |
+| Strategy | Expected benefit | Worst credible loss | Likely reactions | Reversibility | Information gained | Dependencies | Time sensitivity | Adjustment / exit condition |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | | | | | | | | |
 | B | | | | | | | | |
 | C | | | | | | | | |
 
-### Reaction-chain projection
+### Reaction Chain
 
 ```text
 subject action
@@ -413,7 +410,7 @@ Difference:
 [Where did reality diverge?]
 
 Source of difference:
-[Mechanism, adaptation, noise, luck, measurement, omitted force.]
+[Mechanism, adaptation, noise, luck, measurement, or omitted force.]
 
 Stage 1 update:
 [What changes in the reality model, baseline future, or focus set?]
@@ -422,29 +419,29 @@ Stage 2 update:
 [What changes in reachability, actor model, strategy, or action?]
 
 User choice required:
-[Does the selected focus or interest function need reconsideration?]
+[Does the selected focus, interest function, or desired direction require reconsideration?]
 ```
 
-The Agent may revise models and strategies. The user decides whether to revise focus and interests.
+The Agent revises models and strategies. The user decides whether to revise focus, interests, and direction.
 
 ## 15. Final Check
 
 ### Stage 1
 
-- Is the current frame visible and revisable?
+- Is the active frame visible and revisable?
 - Were material contradictions preserved?
 - Does the temporal account explain formation rather than merely list events?
 - Are public positions distinguished from complete causes and strategic functions?
 - Does the operating force field explain repeated behavior?
-- Is the baseline future a clear maximum-probability judgment with revision signals?
-- Is the focus set substantive and unranked by inferred user interests?
+- Is the baseline future a clear maximum-probability judgment with redirection signals?
+- Is the focus set substantive and free of inferred strategic ranking?
 
 ### Stage 2
 
 - Did the user select the focus?
 - Are candidate underlying interests open, provisional, and user-confirmed?
 - Is strategic reachability relative to the stated subject and boundaries?
-- Does the game model include likely reactions and counter-moves?
-- Are internal and external uses of future judgment distinguished?
-- Does the recommendation define action, feedback, downside, and revision?
+- Does the chosen game method fit the actual structure?
+- Are internal and external uses of future judgment distinct?
+- Does the recommendation define action, reactions, feedback, downside, and revision?
 - Does the user retain authority over focus, interests, direction, and final choice?
