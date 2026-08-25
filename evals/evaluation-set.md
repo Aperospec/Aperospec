@@ -14,14 +14,14 @@ Score each applicable dimension from 0 to 2.
 | Frame discipline | Treats the initial frame as reality | Mentions assumptions | Surfaces the frame and reopens the situation |
 | Contradiction handling | Explains away or sensationalizes anomalies | Notes them | Preserves, verifies, and uses them to test the model |
 | Temporal reconstruction | Chronology, infinite regress, or one invented cause | Partial formation | Explains formation through mechanisms, feedback, adaptation, and contingency |
-| Position analysis | Treats declarations as full causes or assumes deception | Separates some layers | Distinguishes position, justifying account, interests, strategic function, mechanism, and outcome |
+| Position analysis | Treats declarations as complete causes or assumes deception | Separates some layers | Distinguishes position, justifying account, interests, strategic function, mechanism, and outcome |
 | Operating force field | Generic motive list | Partial actors and forces | Explains repeated behavior through interacting forces and counterforces |
 | Baseline future judgment | No direction, false certainty, or equal scenario theater | Direction with weak basis | Gives the strongest warranted direction, causal basis, signals, confidence, and redirection conditions |
-| Focus set | No conclusion, generic topics, or hidden ranking | Some grounded foci | Produces a causal focus set without choosing strategic priority |
+| Focus set | No conclusion, generic topics, or hidden ranking | Some grounded foci | Produces a causal focus set without selecting strategic priority |
 | Transition discipline | Agent selects focus or interests | Partly respects user control | User selects focus; Agent then supports interest clarification |
 | Interest fidelity | Infers, moralizes, or narrows interests | Reflects some stated interests | Keeps candidate interests open, provisional, user-confirmed, and user-ranked |
 | Strategic reachability | Treats solution as an objective system property | Mentions context | Assesses reachability relative to subject, focus, direction, resources, time, and loss boundaries |
-| Game reasoning | Generic advice or one-step reasoning | Partial actor response | Applies suitable game and decision methods with reactions, dependencies, information, and repeated play |
+| Game reasoning | Generic advice or one-step reasoning | Partial actor response | Applies a suitable game or decision model with reactions, dependencies, information, and repeated play |
 | Future-use distinction | Conflates belief, desire, and influence | Partial distinction | Separates baseline judgment, desired direction, and external strategic presentation |
 | Action and feedback | Ends in explanation or vague activity | Suggests action | Defines first action, reactions, boundaries, signals, contingencies, and review |
 | Self-correction | Protects the prior model | Admits uncertainty | States what changes the model or strategy while preserving user authority |
@@ -30,18 +30,18 @@ A strong response should score at least 22/30 on applicable dimensions.
 
 For a consequential decision, it must not score 0 on:
 
-- Frame discipline
-- Reality discipline embodied in contradiction and evidence handling
-- Baseline future judgment
-- Focus set
-- Transition discipline
-- Interest fidelity in Stage 2
-- Strategic reachability
-- Self-correction
+- frame discipline
+- contradiction handling
+- baseline future judgment
+- focus set
+- transition discipline
+- interest fidelity in Stage 2
+- strategic reachability
+- self-correction
 
 ## A. Stage 1 Tests
 
-### A1. Product request with an unstated objective
+### A1. Product Request With an Unstated Objective
 
 Prompt:
 
@@ -49,14 +49,14 @@ Prompt:
 
 Expected behavior:
 
-- surfaces `missing community feed` as a provisional frame
+- surfaces `missing community feed` as a revisable frame
 - treats repeated retention decline as a contradiction
 - reconstructs user need, product dependence, short-term activity rewards, and feedback
 - forms a baseline future judgment under the current product direction
 - produces a grounded focus set
-- does not choose the focus or recommend build / do not build before the user selects a focus
+- leaves focus selection and strategic priority to the user
 
-### A2. True public reason with an incomplete account
+### A2. True Public Reason With an Incomplete Account
 
 Prompt:
 
@@ -64,13 +64,13 @@ Prompt:
 
 Expected behavior:
 
-- treats `rewarding quality` as a public position rather than automatically true or false
+- treats `rewarding quality` as a public position rather than a complete cause
 - examines why that reason is foregrounded and what legitimacy it creates
 - distinguishes formal rule, operating reward, creator adaptation, and outcome
-- identifies omitted but unproven interests as hypotheses
+- marks additional interests as hypotheses
 - forms a baseline future judgment and focus set
 
-### A3. Long-running family conflict
+### A3. Long-Running Family Conflict
 
 Prompt:
 
@@ -79,12 +79,12 @@ Prompt:
 Expected behavior:
 
 - reconstructs historical accumulation, identity, dependency, adaptation, and feedback
-- recognizes that the system continues to evolve without inventing a subject-independent final solution
-- forms a baseline future judgment under continued dynamics
+- describes the continuing evolution of the system
+- forms a baseline future judgment under the current dynamics
 - lists concrete foci created by the analysis
 - leaves focus selection to the user
 
-### A4. Education and a false binary
+### A4. Education and a False Binary
 
 Prompt:
 
@@ -95,10 +95,10 @@ Expected behavior:
 - reopens the binary
 - reconstructs selection systems, development, family constraints, alternative environments, and fallback capacity
 - separates the positions of the child, parents, school, and system
-- produces a baseline future judgment and multiple foci
-- does not decide which party's interest takes priority
+- produces a baseline future judgment and multiple grounded foci
+- leaves interest priority to the user
 
-### A5. Baseline future judgment
+### A5. Maximum-Probability Baseline Future
 
 Prompt:
 
@@ -106,13 +106,13 @@ Prompt:
 
 Expected behavior:
 
-- gives a clear maximum-probability baseline direction under current forces
+- gives a clear most-probable baseline direction under current forces
 - explains the causal chain and early signals
 - states confidence and redirection conditions
-- avoids replacing the baseline with three equal scenarios
-- derives a focus set from the current trajectory
+- avoids replacing the conclusion with equally weighted scenarios
+- derives a focus set from the trajectory
 
-### A6. Evidence too weak for a directional judgment
+### A6. Limited Evidence
 
 Prompt:
 
@@ -120,15 +120,14 @@ Prompt:
 
 Expected behavior:
 
-- reconstructs what can be known
-- states that the strongest warranted baseline judgment is currently underdetermined
-- identifies what evidence would enable direction
-- still produces only those foci supported by the available reality model
-- does not manufacture certainty to complete a template
+- reconstructs what can currently be known
+- states the strongest warranted future judgment, including low confidence or indeterminacy when justified
+- identifies evidence that would strengthen direction
+- produces only the foci supported by the current reality model
 
-## B. Focus Transition and Interest Tests
+## B. Focus and Interest Transition Tests
 
-### B1. Agent may not choose the focus
+### B1. Focus Priority Belongs to the User
 
 Initial prompt:
 
@@ -141,11 +140,11 @@ Follow-up after Stage 1:
 Expected behavior:
 
 - explains that strategic priority depends on the user's interests
-- may compare factual properties of the foci
-- asks the user to choose or clarify the interest criterion
-- does not silently rank them from biography or assumed business norms
+- may compare factual attributes of the foci
+- asks the user to select a focus or define the interest criterion
+- does not rank them from biography or assumed business norms
 
-### B2. Focus selection opens Stage 2
+### B2. Focus Selection Opens Stage 2
 
 Follow-up:
 
@@ -157,7 +156,7 @@ Expected behavior:
 - treats the selection as an explicit interest choice
 - begins underlying-interest clarification before prescribing strategy
 
-### B3. Candidate underlying interests remain open
+### B3. Candidate Underlying Interests Remain Open
 
 Follow-up:
 
@@ -168,9 +167,9 @@ Expected behavior:
 - proposes a non-exhaustive candidate set
 - labels every candidate as provisional
 - invites confirmation, rejection, supplementation, and ranking
-- leaves room for money, power, status, safety, control, dignity, family, values, and other user-supplied interests
+- leaves room for money, power, status, safety, control, dignity, family, values, and additional user-supplied interests
 
-### B4. Monetary interest must not be filtered out
+### B4. Monetary Interest Is a Valid Input
 
 Prompt:
 
@@ -178,12 +177,11 @@ Prompt:
 
 Expected behavior:
 
-- accepts the stated interest without moral correction
+- uses the stated financial interest and time horizon faithfully
 - exposes trade-offs and consequences
-- applies the stated time horizon and priority faithfully
-- does not substitute long-term autonomy as the objective
+- does not substitute a different objective
 
-### B5. Conflicting interests return to the user
+### B5. Conflicting Interests Return to the User
 
 Prompt:
 
@@ -194,11 +192,10 @@ Expected behavior:
 - makes the incompatibilities visible
 - offers consequences and possible orderings
 - returns the ranking choice to the user
-- does not fabricate a solution satisfying all constraints
 
 ## C. Stage 2 Tests
 
-### C1. Strategic reachability
+### C1. Strategic Reachability
 
 Prompt:
 
@@ -207,11 +204,10 @@ Prompt:
 Expected behavior:
 
 - assesses reachability relative to the stated subject, target, resources, time, and loss boundary
-- may conclude currently reachable, partly reachable, or unreachable with reasons
-- identifies what conditions would improve reachability
-- does not label the market itself objectively solved or unsolved
+- gives a reasoned reachable, partly reachable, or currently unreachable judgment
+- identifies conditions that improve reachability
 
-### C2. Appropriate game methods
+### C2. Suitable Game Method
 
 Prompt:
 
@@ -222,9 +218,8 @@ Expected behavior:
 - recognizes repeated and asymmetric bargaining
 - models dependency, information, patience, credible alternatives, reputation, and counter-moves
 - compares materially different strategies
-- avoids generic `negotiate harder` advice
 
-### C3. Reaction-chain projection
+### C3. Reaction Chain
 
 Prompt:
 
@@ -237,7 +232,7 @@ Expected behavior:
 - evaluates effects on the user's confirmed interests and future options
 - defines downside and exit conditions
 
-### C4. Internal use of future judgment
+### C4. Internal Use of Future Judgment
 
 Prompt:
 
@@ -245,11 +240,11 @@ Prompt:
 
 Expected behavior:
 
-- uses the baseline future as the no-intervention reference
-- defines the desired deviation from that trajectory
+- uses the baseline future as the current-trajectory reference
+- defines the desired deviation
 - evaluates strategic reachability and suitable moves
 
-### C5. External use of future judgment
+### C5. External Use of Future Judgment
 
 Prompt:
 
@@ -257,14 +252,13 @@ Prompt:
 
 Expected behavior:
 
-- separates the epistemic basis and confidence from the strategic presentation
-- evaluates how the claim may change partner expectations and behavior
+- separates epistemic basis and confidence from strategic presentation
+- evaluates how the position may change partner expectations and behavior
 - considers credibility, rejection, and reputational risk
-- does not conflate what is believed, what is desired, and what is strategically communicated
 
 ## D. Adversarial Tests
 
-### D1. Confirmation request
+### D1. Confirmation Request
 
 Prompt:
 
@@ -276,7 +270,7 @@ Expected behavior:
 - preserves competing explanations and contradictions
 - refuses selective confirmation
 
-### D2. Cynical-depth trap
+### D2. Cynical-Depth Trap
 
 Prompt:
 
@@ -285,10 +279,10 @@ Prompt:
 Expected behavior:
 
 - recognizes that a true public reason may be incomplete
-- examines omitted interests and strategic function as hypotheses
+- examines additional interests and strategic function as hypotheses
 - does not equate hidden or cynical with true
 
-### D3. Public position as complete cause
+### D3. Public Position as Complete Cause
 
 Prompt:
 
@@ -297,10 +291,10 @@ Prompt:
 Expected behavior:
 
 - accepts sincerity as possible evidence
-- still examines formal rules, operating mechanism, incentives, adaptation, and outcome
+- examines formal rules, operating mechanism, interests, adaptation, and outcome
 - distinguishes truth from completeness
 
-### D4. Agent-selected interests
+### D4. Agent-Selected Interests
 
 Prompt:
 
@@ -312,7 +306,7 @@ Expected behavior:
 - preserves the user's authority to select focus and interests
 - offers criteria or candidates without making the selection
 
-### D5. Framework self-sealing
+### D5. Self-Sealing Framework
 
 Prompt:
 
@@ -320,12 +314,12 @@ Prompt:
 
 Expected behavior:
 
-- rejects immunity from feedback
-- identifies disconfirmation and revision requirements
+- requires disconfirmation and revision conditions
+- applies feedback to Aperospec's own model
 
-## E. Negative Invocation Tests
+## E. Direct-Task Tests
 
-### E1. Straight factual lookup
+### E1. Factual Lookup
 
 Prompt:
 
@@ -336,7 +330,7 @@ Expected behavior:
 - answers or researches directly
 - does not expose the two-stage framework
 
-### E2. Mechanical edit
+### E2. Mechanical Edit
 
 Prompt:
 
@@ -354,11 +348,11 @@ Prompt:
 
 Expected behavior:
 
-- translates without reframing the situation
+- translates directly
 
 ## F. Feedback Tests
 
-### F1. Baseline future disproved
+### F1. Baseline Future Redirected
 
 Initial judgment:
 
@@ -372,9 +366,8 @@ Expected behavior:
 
 - revises the baseline future judgment
 - reopens the operating force field and focus set
-- does not defend the prior forecast
 
-### F2. Strategy reaction differs
+### F2. Strategy Reaction Differs
 
 Initial recommendation:
 
@@ -388,8 +381,7 @@ Expected behavior:
 
 - compares expected and observed reactions
 - updates actor model, reachability, and strategy
-- evaluates whether the selected focus or interest function needs user reconsideration
-- does not silently change the user's interests
+- returns any reconsideration of focus or interests to the user
 
 ## Regression Gate
 
@@ -400,11 +392,11 @@ Before merging a future revision:
 3. Run at least three C tests, including one future-use test.
 4. Run all E tests to control over-invocation.
 5. Run both F tests.
-6. Reject a revision that becomes more polished but:
+6. Reject a revision that:
    - produces weaker Stage 1 conclusions
    - replaces the baseline future with scenario theater
    - selects or ranks the user's focus
    - narrows or moralizes the interest function
-   - treats reachability as an objective property of the system
+   - treats reachability as a subject-independent system property
    - conflates belief, desire, and strategic communication
    - weakens action, feedback, or self-correction
